@@ -1,0 +1,16 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="toothGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#0D9488"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="120" rx="24" fill="white"/>
+  <g transform="translate(18,14)">
+    <path d="M40 6C22 6 10 18 10 36C10 48 17 59 22 69C27 79 29 92 40 92C51 92 53 80 58 70C63 60 70 49 70 36C70 18 58 6 40 6Z" fill="url(#toothGradient)"/>
+    <path d="M40 18C29 18 22 26 22 36C22 44 27 52 31 60C35 68 36 79 40 79C44 79 45 68 49 60C53 52 58 44 58 36C58 26 51 18 40 18Z" fill="white" fill-opacity="0.95"/>
+    <circle cx="40" cy="36" r="8" fill="#22D3EE" fill-opacity="0.18"/>
+  </g>
+  <text x="105" y="52" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#0F172A">PearlSmile</text>
+  <text x="106" y="82" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#0E7490">Dental Clinic</text>
+</svg>

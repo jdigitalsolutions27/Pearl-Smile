@@ -1,0 +1,19 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#E0F2FE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="180" y="120" width="840" height="560" rx="40" fill="white" stroke="#D5E6F0" stroke-width="5"/>
+  <rect x="250" y="210" width="360" height="28" rx="14" fill="#D1FAE5"/>
+  <rect x="250" y="270" width="680" height="18" rx="9" fill="#E2E8F0"/>
+  <rect x="250" y="305" width="590" height="18" rx="9" fill="#E2E8F0"/>
+  <rect x="250" y="340" width="640" height="18" rx="9" fill="#E2E8F0"/>
+  <rect x="250" y="420" width="290" height="170" rx="24" fill="#ECFEFF"/>
+  <rect x="565" y="420" width="365" height="170" rx="24" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <circle cx="360" cy="505" r="48" fill="#0891B2"/>
+  <path d="M342 506L356 520L382 492" stroke="white" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="600" y="740" text-anchor="middle" font-size="40" fill="#0F172A" font-family="Arial, sans-serif" font-weight="700">Service Image Placeholder</text>
+</svg>
